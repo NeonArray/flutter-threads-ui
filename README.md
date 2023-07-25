@@ -6,6 +6,6 @@ anything of that nature.
 
 At the moment there are only two "complete" screens, the main home page and the search page.
 
-![Home Page](./home.jpg)
-![Search Page](./search.jpg)
-![Thread Drawer](./drawer.jpg)
+|                          |                              |                                |
+|--------------------------|------------------------------|--------------------------------|
+| ![Home Page](./home.jpg) | ![Search Page](./search.jpg) | ![Thread Drawer](./drawer.jpg) |
